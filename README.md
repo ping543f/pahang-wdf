@@ -1,2 +1,6 @@
 # pahang-wdf
-Comparing Time Series Forecasting Techniques for Forecasting Weekly Dengue Cases: A Case Study in Pahang, Malaysia
+This is the companion repository of codes and dataset for the paper titled "Comparing Time Series Forecasting Techniques for Forecasting Weekly Dengue Cases: A Case Study in Pahang, Malaysia".
+The paper is currently under review in Heliyon.
+
+Abstract:
+Dengue fever is a major public health concern in many countries, including Malaysia. Accurate prediction of dengue cases can help to allocate resources and reduce the impact of outbreaks. In this study, several machine learning models and statistical models were tested to predict weekly dengue cases in the state of Pahang, Malaysia. The models included Support Vector Regression (SVR), Random Forest Regression (RFR), Long Short-Term Memory (LSTM), Facebook Prophet, Autoregressive Integrated Moving Average (ARIMA), and Seasonal ARIMA (SARIMA). The results showed that the SVR model performed better than all other models, followed by RFR. The statistical models, ARIMA and SARIMA, did not perform as well as the machine learning models. The data used in the study was collected from the Malaysian government portal. This study highlights the potential of machine learning models for dengue case prediction and provides valuable insights for future research in this area.
